@@ -1,0 +1,6 @@
+.DS*
+.settings
+target
+.classpath
+.project
+
